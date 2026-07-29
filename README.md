@@ -146,3 +146,17 @@ In this project, users can access the internal website using:
 
 ```text
 www.network.local
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+
+## Disclaimer
+
+This is an independent educational portfolio project created by José Branco.
+
+Cisco, Cisco IOS, Cisco Networking Academy and Cisco Packet Tracer are trademarks or registered trademarks of Cisco Systems, Inc.
+
+The MIT License applies only to the original topology, configurations and documentation created for this project. No official Cisco course materials, assessments or solution files are included.
