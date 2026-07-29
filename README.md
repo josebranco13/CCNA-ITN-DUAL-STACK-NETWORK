@@ -1,6 +1,6 @@
 # CCNA ITN Dual-Stack Enterprise Network
 
-![Project Status](https://img.shields.io/badge/status-building-orange)
+![Project Status](https://img.shields.io/badge/status-completed-lightgreen)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
 ![IPv4](https://img.shields.io/badge/network-IPv4%20%2B%20IPv6-blue)
 
