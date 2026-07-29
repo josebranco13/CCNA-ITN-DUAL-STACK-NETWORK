@@ -3,6 +3,7 @@
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
 ![IPv4](https://img.shields.io/badge/network-IPv4%20%2B%20IPv6-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Project overview
 
