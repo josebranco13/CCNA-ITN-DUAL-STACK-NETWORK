@@ -49,8 +49,8 @@ The network contains:
 | Switches             |    4     |
 | Computers            |   11     |
 | Servers              |    2     |
-| Network printers     |    1     |
-| **Total devices**    |  **20**  |
+| Network printers     |    2     |
+| **Total devices**    |  **21**  |
 
 ---
 
@@ -92,6 +92,7 @@ The remote branch contains:
 - 1 router;
 - 1 Cisco 2960 switch;
 - 3 computers;
+- 1 network printer.
 
 The branch communicates with the headquarters through a connection between the two routers.
 
