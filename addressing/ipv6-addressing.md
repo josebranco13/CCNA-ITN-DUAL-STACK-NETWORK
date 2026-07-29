@@ -17,7 +17,7 @@ Each network area uses a different `/64` IPv6 prefix. The routers use static IPv
 | Engineering | `2001:DB8:1:20::/64` | `2001:DB8:1:20::1` |
 | Servers | `2001:DB8:1:30::/64` | `2001:DB8:1:30::1` |
 | Remote Branch | `2001:DB8:1:40::/64` | `2001:DB8:1:40::1` |
-| Router link | `2001:DB8:1:FF::/64` | R1: `::1`, R2: `::2` |
+| Router link | `2001:DB8:1:99::/64` | R1: `::1`, R2: `::2` |
 
 
 ## Static IPv6 Addresses
