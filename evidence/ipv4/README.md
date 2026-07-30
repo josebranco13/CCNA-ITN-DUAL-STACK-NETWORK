@@ -6,11 +6,14 @@ This directory contains evidence showing that IPv4 addressing, routing and commu
 
 | Evidence | Purpose |
 |:---------|:--------|
-| [PC IPv4 Configuration](pc-admin-ipv4-configuration.png) | Shows the IPv4 address, subnet mask, default gateway and DNS server assigned to an Administration computer |
-| [PC to DNS Server Ping](pc-admin-to-dns-ipv4-ping.png) | Confirms IPv4 communication between the Administration network and the DNS server |
+| [PC IPv4 Configuration](pc-ipv4-config.png) | Shows the IPv4 address, subnet mask, default gateway and DNS server assigned to an Administration computer |
+| [PC to DNS Server Ping](pc-to-dns-ipv4-ping.png) | Confirms IPv4 communication between the Administration network and the DNS server |
 | [Headquarters to Branch Ping](headquarters-to-branch-ipv4-ping.png) | Confirms IPv4 communication between the headquarters and the remote branch |
+| [Branch to Headquarters Ping](branch-to-headquarters-ipv4-ping.png) | Confirms IPv4 communication between the remote branch and the headquarters |
 | [R1 Interface Summary](r1-ipv4-interface-summary.png) | Shows the IPv4 addresses and operational status of the headquarters router interfaces |
 | [R1 Routing Table](r1-ipv4-routing-table.png) | Shows the directly connected and static IPv4 routes known by the headquarters router |
+| [R2 Interface Summary](r2-ipv4-interface-summary.png) | Shows the IPv4 addresses and operational status of the headquarters router interfaces |
+| [R2 Routing Table](r2-ipv4-routing-table.png) | Shows the directly connected and static IPv4 routes known by the headquarters router |
 
 ---
 
