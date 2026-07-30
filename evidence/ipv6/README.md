@@ -6,11 +6,14 @@ This directory contains evidence showing that IPv6 addressing, routing and commu
 
 | Evidence | Purpose |
 |:---------|:--------|
-| [PC IPv6 Configuration](pc-admin-ipv6-configuration.png) | Shows the global IPv6 address, link-local address and default gateway of an Administration computer |
-| [PC to DNS Server Ping](pc-admin-to-dns-ipv6-ping.png) | Confirms IPv6 communication between the Administration network and the DNS server |
+| [PC IPv6 Configuration](pc-ipv6-config.png) | Shows the global IPv6 address, link-local address and default gateway of an Administration computer |
+| [PC to DNS Server Ping](pc-to-dns-ipv6-ping.png) | Confirms IPv6 communication between the Administration network and the DNS server |
 | [Headquarters to Branch Ping](headquarters-to-branch-ipv6-ping.png) | Confirms IPv6 communication between the headquarters and the remote branch |
-| [R1 IPv6 Interface Summary](r1-ipv6-interface-summary.png) | Shows the IPv6 addresses and operational status of the headquarters router interfaces |
-| [R1 IPv6 Routing Table](r1-ipv6-routing-table.png) | Shows the connected and static IPv6 routes known by the headquarters router |
+| [Branch to Headquarters Ping](branch-to-headquarters-ipv6-ping.png) | Confirms IPv6 communication between the remote branch and the headquarters |
+| [Router HQ IPv6 Interface Summary](RHQ-ipv6-interface-summary.png) | Shows the IPv6 addresses and operational status of the headquarters router interfaces |
+| [Router HQ IPv6 Routing Table](RHQ-ipv6-routing-table.png) | Shows the connected and static IPv6 routes known by the headquarters router |
+| [Router BR IPv6 Interface Summary](RBR-ipv6-interface-summary.png) | Shows the IPv6 addresses and operational status of the headquarters router interfaces |
+| [Router BR IPv6 Routing Table](RBR-ipv6-routing-table.png) | Shows the connected and static IPv6 routes known by the headquarters router |
 
 ---
 
