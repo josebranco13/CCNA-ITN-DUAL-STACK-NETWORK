@@ -54,7 +54,7 @@ The DNS server stores two records:
 The configured DNS server addresses are:
 
 ```text
-IPv4: 192.168.20.12
+IPv4: 192.168.30.12
 IPv6: 2001:DB8:1:30::11
 ```
 
