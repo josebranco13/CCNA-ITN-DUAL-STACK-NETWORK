@@ -41,13 +41,13 @@ A correct default gateway is necessary for the computer to communicate with devi
 The DNS server uses the following IPv4 address:
 
 ```text
-192.168.20.12
+192.168.30.12
 ```
 
 The connection was tested using:
 
 ```text
-ping 192.168.20.12
+ping 192.168.30.12
 ```
 
 A successful response confirms that:
